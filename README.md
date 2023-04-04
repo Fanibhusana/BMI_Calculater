@@ -1,5 +1,4 @@
 # BMI_Calculater
-<h1 align="center">Hi 👋, I'm Fanibhusana</h1>
 
 ![a](https://user-images.githubusercontent.com/125716338/229718921-4983f9f0-2fab-4f3c-9ccc-6a034c479cbd.png)
 

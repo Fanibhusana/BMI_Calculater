@@ -12,7 +12,7 @@ Describe........
 	after clicking GO button the BMI index wiil show. 
 
 
-# Teech-Stack
+# Tech-Stacks
 * Core Java
 * JAVAFX
 

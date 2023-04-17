@@ -153,7 +153,7 @@ public class BMI_Project extends Application{
 		
 		Scene  s=new  Scene(root,350,400);
 		stg.setScene(s);
-		stg.setTitle("BMI CALCULATER");
+		stg.setTitle("BMI CALCULATOR");
 		stg.setResizable(false);
 		stg.show();
 	}
